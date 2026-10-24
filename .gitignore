@@ -1,0 +1,6 @@
+# Local browser profiles used for visual checks
+.debug-mobile/
+.responsive-check-profile/
+
+# Node dependencies, if tooling is added later
+node_modules/

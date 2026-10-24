@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 360" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="waveLavender" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F4EEFF"/>
+      <stop offset=".48" stop-color="#E6D8FF"/>
+      <stop offset="1" stop-color="#C9ADFF"/>
+    </linearGradient>
+    <linearGradient id="waveViolet" x1="0" y1="0" x2="1" y2=".8">
+      <stop stop-color="#E6D8FF"/>
+      <stop offset=".5" stop-color="#C9ADFF"/>
+      <stop offset="1" stop-color="#AD86F5"/>
+    </linearGradient>
+    <linearGradient id="waveWhite" x1="0" y1="0" x2="1" y2=".7">
+      <stop stop-color="#fff" stop-opacity=".88"/>
+      <stop offset=".52" stop-color="#fff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#FAF8FF" stop-opacity=".82"/>
+    </linearGradient>
+    <linearGradient id="waveBase" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#E6D8FF"/>
+      <stop offset=".5" stop-color="#F4EEFF"/>
+      <stop offset="1" stop-color="#DCC8FF"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#waveLavender)" d="M0 116C139 82 213 55 346 89c142 36 204 112 354 94 143-17 211-103 357-84 147 19 249 99 383 45v216H0Z"/>
+  <path fill="url(#waveViolet)" fill-opacity=".66" d="M0 177c132-52 240-57 375-21 135 37 198 84 333 47 143-39 212-101 353-81 149 21 247 96 379 62v175H0Z"/>
+  <path fill="url(#waveWhite)" d="M0 228c142-45 250-45 379-12 127 33 205 52 334 19 145-38 232-62 363-30 139 34 238 79 364 41v104H0Z"/>
+  <path fill="url(#waveBase)" fill-opacity=".95" d="M0 270c153-40 254-31 388-5 139 28 217 38 353 6 133-32 223-41 352-11 121 29 237 59 347 25v75H0Z"/>
+  <path fill="#fff" fill-opacity=".48" d="M0 315c153-31 253-18 387 0 143 20 215 28 352 7 139-21 232-26 359-6 125 20 232 30 342 8v36H0Z"/>
+</svg>
