@@ -117,7 +117,7 @@ Portfolio/
 │   ├── images/
 │   ├── firetrace/
 │   ├── calapan/
-│   └── documents/       # If a CV PDF has been added
+│   └── documents/      
 ├── server.js
 └── README.md
 ```
@@ -155,5 +155,3 @@ This portfolio was created to document and present my academic achievements, per
 The portfolio website is a personal project. Some featured academic systems were developed collaboratively as group projects, and their contributions are acknowledged in their respective project documentation.
 
 ---
-
-**Developed by Iesita Paulene Curaming**
